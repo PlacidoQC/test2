@@ -1,2 +1,2 @@
 profile : profile-test
-test1 : test-client
+test : test-client
